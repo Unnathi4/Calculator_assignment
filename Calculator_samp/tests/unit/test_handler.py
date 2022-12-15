@@ -2,6 +2,8 @@ import json
 
 import unittest
 
+from hello_world import app
+
 class TestSum(unittest.TestCase):
 
     def test_add(self):
