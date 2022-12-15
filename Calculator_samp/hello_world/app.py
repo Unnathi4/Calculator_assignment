@@ -1,5 +1,5 @@
 import json
-from __future__ import division
+
 
 
 def lambda_handler(event, context):
